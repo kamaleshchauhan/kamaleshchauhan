@@ -7,7 +7,7 @@ Web developer Digital Marketer
 Despite having a technical background, I have a strong inclination towards writing. I believe words are the most powerful weapon to express what you feel and think. I have written a number of blogs on a variety of topics and subjects. Apart from this, I also have a relevant experience in digital marketing.
 
 * 🌍  I'm based in India, Delhi
-* ✉️  You can contact me at [kamleshchauhan@outlook.com](mailto:kamleshchauhan@outlook.com)
+* ✉️  You can contact me at [kamaleshwarsinghchauhan@gmail.com](mailto:kamaleshwarsinghchauhan@gmail.com)
 * 🧠  I'm learning HTML and CSS
 
 ### Skills
